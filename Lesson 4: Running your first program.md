@@ -96,5 +96,8 @@ You can practice what you've learned in this lesson by trying out the code exerc
 # Write code that answers the question "How are you feeling today?"
 # Alter your code from the previous cell so that it will cause an error when you run it
 ```
+---
+```
 # Ask an LLM to help you fix the error in the code in the previous cell (or fix yourself) and
 # then type the corrected code on the next line:
+```
