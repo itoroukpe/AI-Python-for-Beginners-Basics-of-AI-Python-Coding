@@ -26,8 +26,8 @@ Congratulations 🎉🎉🎉
 The following variable names also have some problems. Try to fix them yourself or use the help from the chatbot.
 ```bash
 driver = "unicorn"
-driver's vehicle = "colorful, asymmetric dinosaur car"
-favorite planet = "Pluto
+driver_vehicle = "colorful, asymmetric dinosaur car"
+favorite_planet = "Pluto"
 ```
 Now, update the next cell with any changes you made in the previous cell.
 ```bash
